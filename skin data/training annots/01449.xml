@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Skin</folder>
+	<filename>ACW10__XX_YY_SSlpre3__1_2.JPG</filename>
+	<path>C:\Users\Urchin2\Downloads\Caucasian STIR images\working folder\fullsize oYY_SSlpre3_XX_YY_SSlpre3_ACW10__XX_YY_SSlpre3__1_2.JPG.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>2240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pre_erupted</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>522</xmin>
+			<ymin>1154</ymin>
+			<xmax>747</xmax>
+			<ymax>1371</ymax>
+		</bndbox>
+	</object>
+</annotation>

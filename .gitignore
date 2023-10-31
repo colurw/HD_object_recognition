@@ -1,0 +1,22 @@
+mrcnn_training_old.ipynb
+Skin2.ipynb
+SkinPredict2.ipynb
+mask_rcnn_coco.h5
+
+skin data/prediction images/dztbji.JPG
+skin data/prediction images/ezepsi.JPG
+skin data/prediction images/hoazmu.JPG
+skin data/prediction images/ixikrq.JPG
+skin data/prediction images/oazujj.JPG
+skin data/prediction images/wveqfe.JPG
+
+skin data/prediction images/completed predictions/ngumkm.JPG
+skin data/prediction images/completed predictions/ngumkm.xml
+skin data/prediction images/completed predictions/rklvwt.JPG
+skin data/prediction images/completed predictions/rklvwt.xml
+skin data/prediction images/completed predictions/sezvrp.JPG
+skin data/prediction images/completed predictions/sezvrp.xml
+skin data/prediction images/completed predictions/ucwjxh.JPG
+skin data/prediction images/completed predictions/ucwjxh.xml
+skin data/prediction images/completed predictions/yifedv.JPG
+skin data/prediction images/completed predictions/yifedv.xml

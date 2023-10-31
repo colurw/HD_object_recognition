@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Skin</folder>
+	<filename>ACW10__XX_YY_IMG_0212__1_0.JPG</filename>
+	<path>C:\Users\Urchin2\Downloads\Caucasian STIR images\fullsize original names\IYY_IMG_0212_XX_YY_IMG_0212_ACW10__XX_YY_IMG_0212__1_0.JPG.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>2240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>follicular_bump</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>1368</ymin>
+			<xmax>811</xmax>
+			<ymax>1675</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>folder</folder>
+	<filename>photo.IMG</filename>
+	<path>C:\path\photo.IMG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0000</width>
+		<height>0000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
