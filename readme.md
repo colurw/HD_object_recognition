@@ -2,7 +2,7 @@
 
 Uses data augmentation and supervised transfer learning techniques
 to categorise individual features found in HD images.  It's written in Ipython, using
-Jupyter Notebooks, to be run on Google Colaboratory.
+Jupyter Notebooks, to be run on Google Colaboratory. 
 
 ## Transfer Learning
 
