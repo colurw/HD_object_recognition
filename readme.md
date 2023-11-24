@@ -1,4 +1,4 @@
-# HD_object_recognition 
+# object_recognition_HD 
 
 Uses data augmentation and supervised transfer learning techniques
 to categorise individual features found in HD images.  It is written in Ipython, using
